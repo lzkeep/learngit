@@ -1,0 +1,49 @@
+his post will guide you through five fixes that will, hopefully, solve the problem you are experiencing. Without any further delay, let’s get started.
+
+How to fix a water damaged phone
+How to backup your Android phone
+1. Make sure your headphones aren’t broken
+
+The first step is an obvious one. It’s quite possible that there’s actually nothing wrong with the headphone jack and that the headphones are the problem. You can check this out quickly just by plugging them into another device. This doesn’t necessarily have to be a smartphone. A laptop, TV, or any other device that has the 3.5 mm jack on board will do.
+
+If you can’t hear any audio when using your headphones with a different device, you’ve found the source of the problem. Just replace your headphones and you’re good to go. If they’re working fine with a different device, something else is to blame. Time to try out one of the other fixes listed below.
+
+We also recommend plugging a different pair of headphones into your smartphone before moving forward. Although it’s rare, there’s still a chance that your original pair isn’t compatible with your smartphone, even if they work with other devices.
+
+headphone jack not working
+
+2. Check to see if the smartphone is connected to a different device via Bluetooth
+
+If your smartphone is paired with wireless headphones, a speaker, or any other device via Bluetooth, it’s possible that the headphone jack is disabled. Normally, when you plug in your headphones, the smartphone should recognize them and everything should work as intended regardless of the Bluetooth settings. However, this isn’t necessarily always the case.
+
+It’s a quick and easy fix, as all you have to do is open up the settings menu on your device, find the Bluetooth option, and check to see if it’s on. In that case, the smartphone is likely paired with one of the other devices you have in your house. If that’s the problem, just turn it off, plug in your headphones, and see if that solves it. If they still don’t work, you should  move on to the next solution on this list.
+
+3. Clean the headphone jack
+
+As you can imagine, a lot of dust, as well as lint, can make its way into the headphone jack over time. This just might be the cause of the problem, as the dirt can actually block the connection between the headphones and the jack.
+
+The first thing you should do is simply take a look into the jack to see just how dirty it really is. A flashlight might come in handy for this. The next step is to try and clean it and hope that that solves the issue. There are a lot of different ways to do this, some of which work better than others. One option is simply to blow into the headphone jack, which should take care of at least some of the dust and lint that’s found inside. You can also use a can of compressed air if you have one nearby.
+
+
+
+A great option is to use a cotton swab. Push it into the jack and swirl it around a little bit to get the dust and lint out. Be very careful when you do this, as the last thing you want to do is cause any more damage to the device. You can also damp the cotton swab with rubbing alcohol, but just make sure you don’t use too much of it.
+
+After you’re done, look into the headphone jack again to see just how much dust and lint you were able to get out. If things look better, plug in your headphones to check if everything works as it should now.
+
+4. Check audio settings and restart device
+
+There’s also a chance the problem isn’t with the jack or the headphones you’re using but has to do with the audio settings of the device. If this is the case, you’ll be able to sort it out in no time. Just open up the audio settings on your device and check the volume level as well as any others settings that might mute the sound.
+
+Normally, there aren’t a lot of settings like these on a smartphone, so you should find the problem more or less right away. If there is one, that is.
+
+If everything seems to be in order, there’s another simple fix you can try which is restarting your device. This can sometimes solve loads of different smartphone-related problems and takes less than a minute to do. Just press and hold the power button, select the restart option, wait for the device to turn back on again, and then check to see if the problem still persists.
+
+5. Time to call the repairman
+
+If none of the fixes listed above work, it means that the problem isn’t quite as minor as hoped. If your device is still under warranty, the best thing to do is simply contact the retailer or manufacturer, explain the problem, and send it in for repair or replacement. This can take quite some time in some cases, but at least it’s free.
+
+In case the warranty has expired but you do have phone insurance, just make a claim with your provider.
+
+The third solution is definitely the worst one, which is to get the device repaired by the manufacturer or someone else who knows what he or she is doing. You’ll have to open up your wallet and pay up to get it fixed, but at least you’ll be able to use the headphone jack again. Otherwise, you could just opt for a pair of wireless Bluetooth headphones, which will also solve the problem. Well, sort of.
+
+These are some of the fixes that we hope will help you take care of a faulty headphone jack on your smartphone. If you think we have missed any, do let us know in the comments. Also feel free to share which of the solutions listed above — if any — worked best for you.
